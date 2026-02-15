@@ -53,4 +53,3 @@ class Distance:
         elif isinstance(other, int | float):
             self.km += other
         return self
-
